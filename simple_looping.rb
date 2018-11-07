@@ -47,7 +47,7 @@ end
 
 #shoe_count = 1..32
  
-for shoe in shoe_count 
-    puts "I'm putting a pair of shoes away."
-end
+#for shoe in shoe_count 
+   # puts "I'm putting a pair of shoes away."
+#end
 
