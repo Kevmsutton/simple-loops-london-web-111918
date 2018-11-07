@@ -45,7 +45,7 @@ def for_iterator(number_of_times)
 end
 end
 
-shoe_count = 1..32
+#shoe_count = 1..32
  
 for shoe in shoe_count 
     puts "I'm putting a pair of shoes away."
